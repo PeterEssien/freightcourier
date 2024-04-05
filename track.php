@@ -1,7 +1,3 @@
-<?php
-require('db.php');
-
-
 <!DOCTYPE html>
 <html>
 
@@ -353,7 +349,7 @@ require('db.php');
     <script src="js/wow.js"></script>
     <script src="js/jquery-ui.js"></script>
     <script src="js/script.js"></script>
-<?php } ?>
+
 </body>
 
 </html>
